@@ -23,7 +23,7 @@ Currently, I'm looking for opportunities in IT where I can grow as a developer, 
 
 ## Experience
 
-High Flyers Scientific Club 
+### High Flyers Scientific Club 
 
 Member of a university scientific club focused on drone technologies, engineering projects, and practical applications of UAV systems.
 
