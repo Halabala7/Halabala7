@@ -9,8 +9,9 @@ Currently, I'm looking for opportunities in IT where I can grow as a developer, 
 * HTML5, CSS3, JavaScript (ES6+)
 * Python
 * Git & GitHub
-* C / C++
-* MySQL
+* .Net
+* C / C++ / C#
+* MySQL / SQL Server
 
 ## Interests
 
