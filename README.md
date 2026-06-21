@@ -27,6 +27,11 @@ Currently, I'm looking for opportunities in IT where I can grow as a developer, 
 ### High Flyers Scientific Club 
 
 Member of a university scientific club focused on drone technologies, engineering projects, and practical applications of UAV systems.
+### Droniada 2026 
+[3rd] Place in the Relay Race for drones. An autonomous, night-time mission requiring our drone to locate hidden landing zones using IR sensors in total darkness. The system successfully adapted to dynamic infrared frequency changes, simulating advanced electronic warfare challenges. My role was developing the software for real-time LED IR detection in Python, enabling the drone to adapt to dynamic frequency changes. 
+
+
+Special Award from Flytronic for our website, which featured live data streaming! 🌐
 
 ### CanSat 2024 — MechanSat Team
 
@@ -37,13 +42,5 @@ I was responsible mainly for the software side of the project, including microco
 Our project received a distinction in the nationwide CanSat competition organized by Centrum Nauki Kopernik.
 
 
-### E-commerce & Customer Service
 
-Experience in:
-
-* online order handling,
-* customer communication,
-* warehouse and inventory systems,
-* product management,
-* teamwork and problem solving.
 
